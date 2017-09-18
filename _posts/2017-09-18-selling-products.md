@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Selling requires a lot of patience and a great marketing plan. If you are trying to sell sub standard products and are failing , blame it on yourself. This is primarily because it does not matter what you are selling.Here are three key tips for selling sub standard products.
 
