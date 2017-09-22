@@ -15,7 +15,7 @@ description: 'Spent a year managing junk food. Garnered an industry award while 
   lecturing about food delivery and planes.
 
 '
-baseurl: ''
+baseurl: 
 url: https://spiderninja.github.io/
 markdown: kramdown
 theme: jekyll-theme-dinky
