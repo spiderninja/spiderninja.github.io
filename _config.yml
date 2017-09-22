@@ -1,11 +1,21 @@
-# Site settings
+---
 title: Musings of Andrew Dane
-description: > # this means to ignore newlines until "baseurl:"
- Spent a year managing junk food. Garnered an industry award while selling food in concerts and music festivals. Spent the 80's analyzing electric planes for farmers. Had some great experience testing the market for food delivery. Spent 2002-2009 consulting about plabes in Suffolk, NY. A real dynamo when it comes to lecturing about food delivery and planes.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://spiderninja.github.io/" # the base hostname & protocol for your site
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+description: 'Spent a year managing junk food. Garnered an industry award while selling
+  food in concerts and music festivals. Spent the 80''s analyzing electric planes
+  for farmers. Had some great experience testing the market for food delivery. Spent
+  2002-2009 consulting about plabes in Suffolk, NY. A real dynamo when it comes to
+  lecturing about food delivery and planes.
 
-# Build settings
+'
+baseurl: ''
+url: https://spiderninja.github.io/
 markdown: kramdown
-
 theme: jekyll-theme-dinky
