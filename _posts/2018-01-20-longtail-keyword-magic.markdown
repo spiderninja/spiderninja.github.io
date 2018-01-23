@@ -1,6 +1,8 @@
 ---
 title: Longtail Keyword Magic
-date: 2018-01-20 22:26:00 Z
+date: 2018-01-20T22:26:00.000Z
+published: true
+layout: post
 ---
 
 In response to numerous inquiries and emails from readers of the blog in relation to keyword research/content creation and what on earth long tail keywords actually are (from a marketers point of view) I have decided that the easiest and best way of answering those questions was to edit this original article, making it more applicable to the questions being asked – and republishing it here.
