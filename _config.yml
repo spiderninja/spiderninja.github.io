@@ -18,4 +18,4 @@ description: 'Spent a year managing junk food. Garnered an industry award while 
 baseurl: 
 url: https://spiderninja.github.io/
 markdown: kramdown
-theme: jekyll-theme-dinky
+theme: jekyll-theme-cayman
